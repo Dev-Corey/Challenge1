@@ -18,9 +18,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+Github Pages Link: https://cboensch6505.github.io/Challenge1/
+
 ![Screenshot of working SEO Webpage](assets/images/Capture.PNG)
 
-I went threw the HTML and CSS side by side and renamed certain classes as to eleminate excess code. Items in sections that shared identical CSS values were combined.
+  I went threw the HTML and CSS side by side and renamed certain classes as to eleminate excess code. Items in sections that shared identical CSS values were combined.
 I noticed the missing ID for the first portion on the nav bar so I added that in.
 I also removed the excess use of Div's as well as changed the main body to articles. I read in module 1 that screen readers have a better time reading articles because it groups the related text into one portion to then pass onto the user.
 
