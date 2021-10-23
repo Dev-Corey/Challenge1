@@ -1,12 +1,10 @@
 # Challenge1
 
-# Challenge1 REPO
-
 ## Module 1 Chaallenge:
 
 SEO optimaization for HTML and CSS file.
 
-## Aceptance Criteria
+### Aceptance Criteria
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
