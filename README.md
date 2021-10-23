@@ -1,6 +1,6 @@
 # Challenge1
 
-## Module 1 Chaallenge:
+## Module 1 Challenge:
 
 SEO optimaization for HTML and CSS file.
 
