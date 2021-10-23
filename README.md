@@ -26,5 +26,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![Screenshot of working SEO Webpage](images/Capture.png)
+![Screenshot of working SEO Webpage](assets/images/Capture.png)
 
